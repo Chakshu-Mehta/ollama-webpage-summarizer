@@ -1,4 +1,4 @@
-# Ollama Webpage Summarizer
+# SummarAIze
 
 A Python project that summarizes webpage content using a locally running open-source LLM via Ollama.
 
