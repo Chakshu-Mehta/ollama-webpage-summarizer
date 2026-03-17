@@ -147,7 +147,6 @@ These sites work well with the scraper:
 https://example.com
 https://cnn.com
 https://anthropic.com
-https://edwarddonner.com
 https://python.org
 ```
 
